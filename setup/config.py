@@ -151,7 +151,7 @@ website = ""                       # "www.example.bio" or "" and so on....
 desired_salary = "4000"          # "80000", "90000", "100000" or "120000" and so on....
 
 # Example question: "On a scale of 1-10 how much experience do you have building web or mobile applications? 1 being very little or only in school, 10 being that you have built and launched applications to real users"
-confidence_level = "7"             # Any number between "1" to "10" including 1 and 10, put it in quotes ""
+confidence_level = "8"             # Any number between "1" to "10" including 1 and 10, put it in quotes ""
 
 current_city = ""                  # If left empty will fill in location of jobs location.
 
@@ -168,6 +168,8 @@ summary = "Summary"
 # Your cover letter in quotes, use \n to add line breaks
 cover_letter = "Cover Letter"
 
+# Name of your most recent employer
+recent_employer = "Not Applicable" # "", "Lala Company", "Google", "Snowflake", "Databricks"
 
 ## US Equal Opportunity questions
 # What is your ethnicity or race? If left empty as "", tool will not answer the question. However, note that some companies make it compulsory to be answered
@@ -202,7 +204,7 @@ about_company_good_words = []      # (dynamic multiple search) or leave empty as
 
 
 # Avoid applying to these companies if they have these bad words in their 'Job Description' section...  (In development)
-bad_words = []                     # (dynamic multiple search) or leave empty as []. Case Insensitive. Ex: ["word_1", "phrase 1", "word word", "polygraph", "US Citizenship", "Security Clearance"]
+bad_words = ["Embedded Engineering", "Dev Ops"]                     # (dynamic multiple search) or leave empty as []. Case Insensitive. Ex: ["word_1", "phrase 1", "word word", "polygraph", "US Citizenship", "Security Clearance"]
 
 # Do you have an active Security Clearance? (True for Yes and False for No)
 security_clearance = False         # True or False

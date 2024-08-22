@@ -1,4 +1,4 @@
-# LinkedIn Auto Job Applier 🤖
+# LinkedIn AI Auto Job Applier 🤖
 This is an web scraping bot that automates the process of job applications on LinkedIn. It customizes your resume based on the collected job information, such as skills required, description, about company, etc. Answers all questions and applies to the job. 
 
 
@@ -139,6 +139,14 @@ With heartfelt appreciation, <br>
 
 
 ## 🗓️ Update History:
+### Aug 21, 2024
+- Performance improvements (skip clicking on applied and blacklisted companies)
+- Stop when easy apply application limit is reached
+- Added ability to discard from pause at submission dialogue box
+- Added support for address input
+- Bug fixed radio questions, added support for physical disability questions
+- Added framework for future config file updates
+
 ### June 19, 2024
 - Major Bug fixes (Text Area type questions)
 - Made uploading default resume as not required
@@ -207,6 +215,7 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 ## 🐧 Socials
 - **LinkedIn** : https://www.linkedin.com/in/saivigneshgolla/
 - **Email**    : saivigneshgolla@outlook.com
+- **X/Twitter**: https://x.com/gods_scion
 - **Discord**  : godsscion
 
 ## 🙌 Community Support and Discussions
