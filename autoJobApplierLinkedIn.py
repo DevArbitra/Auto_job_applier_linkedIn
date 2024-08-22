@@ -38,7 +38,7 @@ if use_resume_generator:    from resume_generator import is_logged_in_GPT, login
 if run_in_background == True:
     pause_at_failed_question = False
     pause_before_submit = False
-    run_non_stop = False
+    run_non_stop = True
 
 first_name = first_name.strip()
 middle_name = middle_name.strip()
@@ -729,16 +729,32 @@ def apply_to_jobs(search_terms):
                     applied_jobs.add(job_id)
 
                 # Switching to next page
-                if pagination_element == None:
-                    print_lg("Couldn't find pagination element, probably at the end page of results!")
-                    break
-                try:
-                    pagination_element.find_element(By.XPATH, f"//button[@aria-label='Page {current_page+1}']").click()
-                    print_lg(f"\n>-> Now on Page {current_page+1} \n")
-                except NoSuchElementException:
-                    print_lg(f"\n>-> Didn't find Page {current_page+1}. Probably at the end page of results!\n")
-                    break
+                while True:
+                    try:
+                        # Locate the pagination container
+                        pagination_element = driver.find_element(By.CSS_SELECTOR, "div.jobs-search-pagination.jobs-search-results-list__pagination.pv4")
+                        if pagination_element is None:
+                            print_lg("Couldn't find pagination element, probably at the end page of results!")
+                            break
 
+                        # Locate the "Next" button using a refined CSS selector
+                        next_button = pagination_element.find_element(By.XPATH, ".//button[contains(@aria-label, 'View next page') and not(contains(@class, 'artdeco-button--disabled'))]")
+                        # next_page_button.click()
+
+                        if next_button.is_enabled() and "disabled" not in next_button.get_attribute("class"):
+                            next_button.click()
+                            print_lg(f"\n>-> Now on Page {current_page + 1} \n")
+
+                            # Increment the page count
+                            # current_page += 1
+                            buffer(3)  # Pause to allow page load
+
+                        else:
+                            print_lg("\n>-> Reached the last page. No 'Next' button available.\n")
+                            break
+                    except NoSuchElementException:
+                        print_lg("\n>-> Didn't find the 'Next' button. Probably at the end of the results!\n")
+                        break
         except Exception as e:
             print_lg("Failed to find Job listings!")
             critical_error_log("In Applier", e)
@@ -836,7 +852,7 @@ def main():
             "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford",
             "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
             ])
-        msg = f"\n{quote}\n\n\nBest regards,\nSai Vignesh Golla\nhttps://www.linkedin.com/in/saivigneshgolla/\n\n"
+        msg = f"\n{quote}\n\n\nBest regards,\nKumbukani Thapelo Kachingwe\nhttps://www.linkedin.com/in/kumbukani-kachingwe-a5365aba/\n\n"
         pyautogui.alert(msg, "Exiting..")
         print_lg(msg,"Closing the browser...")
         if tabs_count >= 10:

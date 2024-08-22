@@ -1,0 +1,45 @@
+linkedin:
+  username: klifikilo@yahoo.com 
+  password: Sx2$XSpY^f44kniH
+
+job_search:
+  search_terms:
+    - Software Engineer
+    - Data Scientist
+    - Python 
+    - Django 
+    - Data Scientist 
+    - Machine Learning Engineer 
+    - Software Engineer 
+    - Cloud Engineer 
+    - DevOps Engineer 
+    - Cybersecurity Specialist 
+    - Full Stack Developer 
+    - Front End Developer 
+    - Back End Developer 
+    - AI Engineer 
+    - Database Administrator 
+    - Network Engineer 
+    - Systems Analyst 
+    
+  location: South Africa
+  date_posted: Past week
+  sort_by: Most recent
+
+resume:
+  path: /all resumes/default/Kumbukani-Kachingwe-Updated-CV.pdf
+  use_customization: true
+
+application:
+  easy_apply_only: true
+  run_non_stop: true
+  max_retries: 3
+  retry_delay: 5
+  default_answers:
+    "First Name": "Kumbukani"
+    "Last Name": "Kachingwe"
+    "Email": "kumbukanikachingwe.kk@gmail.com"
+    "Phone": "0739020836"
+    "Years of experience": "10"
+    "Are you legally authorized to work in the South Africa?": "Yes"
+    "Will you now, or in the future, require sponsorship for employment visa status?": "Yes"

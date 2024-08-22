@@ -1,0 +1,4273 @@
+2024-08-21 12:32:12,938 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-08-21 12:33:21,470 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:26,549 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:33,154 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:37,590 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:43,141 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:47,505 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:50,559 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:54,489 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:33:57,937 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:03,817 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:06,934 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:13,282 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:18,296 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:23,226 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:28,965 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:33,600 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:35,796 - src.job_search - ERROR - Error searching for term 'Network Engineer': Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3ADDA57]
+	(No symbol) [0x00007FF7B3AE0058]
+	(No symbol) [0x00007FF7B3B6BD7B]
+	(No symbol) [0x00007FF7B3B4CA6A]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:39,923 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:34:53,556 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:35:13,712 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:35:31,663 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:35:31,663 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 12:35:43,809 - src.job_apply - WARNING - Attempt 1 failed for job 3995600841: Message: 
+
+2024-08-21 12:36:01,501 - src.job_apply - WARNING - Attempt 2 failed for job 3995600841: Message: 
+
+2024-08-21 12:36:19,103 - src.job_apply - WARNING - Attempt 3 failed for job 3995600841: Message: 
+
+2024-08-21 12:36:19,103 - src.job_apply - ERROR - Failed to apply to job 3995600841 after 3 attempts
+2024-08-21 12:36:31,163 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:36:48,658 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:37:06,163 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:37:06,163 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 12:37:18,493 - src.job_apply - WARNING - Attempt 1 failed for job 3987804985: Message: 
+
+2024-08-21 12:37:35,713 - src.job_apply - WARNING - Attempt 2 failed for job 3987804985: Message: 
+
+2024-08-21 12:37:53,126 - src.job_apply - WARNING - Attempt 3 failed for job 3987804985: Message: 
+
+2024-08-21 12:37:53,126 - src.job_apply - ERROR - Failed to apply to job 3987804985 after 3 attempts
+2024-08-21 12:38:05,138 - src.job_apply - WARNING - Attempt 1 failed for job 3999700928: Message: 
+
+2024-08-21 12:38:22,537 - src.job_apply - WARNING - Attempt 2 failed for job 3999700928: Message: 
+
+2024-08-21 12:38:41,751 - src.job_apply - WARNING - Attempt 3 failed for job 3999700928: Message: 
+
+2024-08-21 12:38:41,751 - src.job_apply - ERROR - Failed to apply to job 3999700928 after 3 attempts
+2024-08-21 12:38:55,820 - src.job_apply - WARNING - Attempt 1 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:39:15,007 - src.job_apply - WARNING - Attempt 2 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:39:33,084 - src.job_apply - WARNING - Attempt 3 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:39:33,084 - src.job_apply - ERROR - Failed to apply to job 3986449556 after 3 attempts
+2024-08-21 12:39:46,630 - src.job_apply - WARNING - Attempt 1 failed for job 4003295733: Message: 
+
+2024-08-21 12:40:06,910 - src.job_apply - WARNING - Attempt 2 failed for job 4003295733: Message: 
+
+2024-08-21 12:40:27,431 - src.job_apply - WARNING - Attempt 3 failed for job 4003295733: Message: 
+
+2024-08-21 12:40:27,431 - src.job_apply - ERROR - Failed to apply to job 4003295733 after 3 attempts
+2024-08-21 12:40:44,261 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:41:03,053 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:41:24,505 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:41:24,505 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 12:41:38,182 - src.job_apply - WARNING - Attempt 1 failed for job 3993231862: Message: 
+
+2024-08-21 12:41:59,787 - src.job_apply - WARNING - Attempt 2 failed for job 3993231862: Message: 
+
+2024-08-21 12:42:17,564 - src.job_apply - WARNING - Attempt 3 failed for job 3993231862: Message: 
+
+2024-08-21 12:42:17,564 - src.job_apply - ERROR - Failed to apply to job 3993231862 after 3 attempts
+2024-08-21 12:42:30,407 - src.job_apply - WARNING - Attempt 1 failed for job 3995600841: Message: 
+
+2024-08-21 12:42:48,928 - src.job_apply - WARNING - Attempt 2 failed for job 3995600841: Message: 
+
+2024-08-21 12:43:07,173 - src.job_apply - WARNING - Attempt 3 failed for job 3995600841: Message: 
+
+2024-08-21 12:43:07,173 - src.job_apply - ERROR - Failed to apply to job 3995600841 after 3 attempts
+2024-08-21 12:43:19,886 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:43:39,057 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:43:59,817 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:43:59,817 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 12:44:15,650 - src.job_apply - WARNING - Attempt 1 failed for job 3997759473: Message: 
+
+2024-08-21 12:44:35,006 - src.job_apply - WARNING - Attempt 2 failed for job 3997759473: Message: 
+
+2024-08-21 12:44:54,035 - src.job_apply - WARNING - Attempt 3 failed for job 3997759473: Message: 
+
+2024-08-21 12:44:54,035 - src.job_apply - ERROR - Failed to apply to job 3997759473 after 3 attempts
+2024-08-21 12:45:07,414 - src.job_apply - WARNING - Attempt 1 failed for job 3998754107: Message: 
+
+2024-08-21 12:45:24,949 - src.job_apply - WARNING - Attempt 2 failed for job 3998754107: Message: 
+
+2024-08-21 12:45:44,268 - src.job_apply - WARNING - Attempt 3 failed for job 3998754107: Message: 
+
+2024-08-21 12:45:44,268 - src.job_apply - ERROR - Failed to apply to job 3998754107 after 3 attempts
+2024-08-21 12:46:58,739 - src.job_search - ERROR - Error searching for term 'Software Engineer': Message: element not interactable
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6E09]
+	(No symbol) [0x00007FF7B3B1DE39]
+	(No symbol) [0x00007FF7B3B4CA6A]
+	(No symbol) [0x00007FF7B3B1BBB6]
+	(No symbol) [0x00007FF7B3B4CC80]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:04,117 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:11,873 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:15,172 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:21,228 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:26,409 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:31,521 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:38,022 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:41,669 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:46,929 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:50,334 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:56,003 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:47:59,319 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:04,906 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:08,178 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:14,191 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:17,686 - src.job_search - ERROR - Error applying filters: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Past week')]"}
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:18,952 - src.job_search - ERROR - Error searching for term 'Systems Analyst': Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=127.0.6533.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3ADDA57]
+	(No symbol) [0x00007FF7B3AE0058]
+	(No symbol) [0x00007FF7B3B6BD7B]
+	(No symbol) [0x00007FF7B3B4CA6A]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:32,360 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:48:49,937 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:49:07,249 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:49:07,249 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 12:49:20,000 - src.job_apply - WARNING - Attempt 1 failed for job 3993231862: Message: 
+
+2024-08-21 12:49:38,421 - src.job_apply - WARNING - Attempt 2 failed for job 3993231862: Message: 
+
+2024-08-21 12:49:57,191 - src.job_apply - WARNING - Attempt 3 failed for job 3993231862: Message: 
+
+2024-08-21 12:49:57,191 - src.job_apply - ERROR - Failed to apply to job 3993231862 after 3 attempts
+2024-08-21 12:50:09,236 - src.job_apply - WARNING - Attempt 1 failed for job 3995600841: Message: 
+
+2024-08-21 12:50:26,226 - src.job_apply - WARNING - Attempt 2 failed for job 3995600841: Message: 
+
+2024-08-21 12:50:43,070 - src.job_apply - WARNING - Attempt 3 failed for job 3995600841: Message: 
+
+2024-08-21 12:50:43,070 - src.job_apply - ERROR - Failed to apply to job 3995600841 after 3 attempts
+2024-08-21 12:50:55,022 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:51:11,503 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:51:28,734 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:51:28,734 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 12:51:40,583 - src.job_apply - WARNING - Attempt 1 failed for job 3997759473: Message: 
+
+2024-08-21 12:51:57,256 - src.job_apply - WARNING - Attempt 2 failed for job 3997759473: Message: 
+
+2024-08-21 12:52:13,826 - src.job_apply - WARNING - Attempt 3 failed for job 3997759473: Message: 
+
+2024-08-21 12:52:13,826 - src.job_apply - ERROR - Failed to apply to job 3997759473 after 3 attempts
+2024-08-21 12:52:26,274 - src.job_apply - WARNING - Attempt 1 failed for job 3998754107: Message: 
+
+2024-08-21 12:52:43,071 - src.job_apply - WARNING - Attempt 2 failed for job 3998754107: Message: 
+
+2024-08-21 12:52:59,899 - src.job_apply - WARNING - Attempt 3 failed for job 3998754107: Message: 
+
+2024-08-21 12:52:59,899 - src.job_apply - ERROR - Failed to apply to job 3998754107 after 3 attempts
+2024-08-21 12:53:11,971 - src.job_apply - WARNING - Attempt 1 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:53:29,135 - src.job_apply - WARNING - Attempt 2 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:53:46,703 - src.job_apply - WARNING - Attempt 3 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:53:46,703 - src.job_apply - ERROR - Failed to apply to job 3986449556 after 3 attempts
+2024-08-21 12:53:59,422 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:54:16,380 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:54:34,268 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:54:34,268 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 12:54:46,944 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:55:04,163 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:55:21,412 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:55:21,412 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 12:55:33,812 - src.job_apply - WARNING - Attempt 1 failed for job 3998754107: Message: 
+
+2024-08-21 12:55:51,647 - src.job_apply - WARNING - Attempt 2 failed for job 3998754107: Message: 
+
+2024-08-21 12:56:08,646 - src.job_apply - WARNING - Attempt 3 failed for job 3998754107: Message: 
+
+2024-08-21 12:56:08,646 - src.job_apply - ERROR - Failed to apply to job 3998754107 after 3 attempts
+2024-08-21 12:56:21,222 - src.job_apply - WARNING - Attempt 1 failed for job 3987804985: Message: 
+
+2024-08-21 12:56:38,431 - src.job_apply - WARNING - Attempt 2 failed for job 3987804985: Message: 
+
+2024-08-21 12:56:55,964 - src.job_apply - WARNING - Attempt 3 failed for job 3987804985: Message: 
+
+2024-08-21 12:56:55,964 - src.job_apply - ERROR - Failed to apply to job 3987804985 after 3 attempts
+2024-08-21 12:57:08,194 - src.job_apply - WARNING - Attempt 1 failed for job 4003291351: Message: 
+
+2024-08-21 12:57:25,351 - src.job_apply - WARNING - Attempt 2 failed for job 4003291351: Message: 
+
+2024-08-21 12:57:42,288 - src.job_apply - WARNING - Attempt 3 failed for job 4003291351: Message: 
+
+2024-08-21 12:57:42,288 - src.job_apply - ERROR - Failed to apply to job 4003291351 after 3 attempts
+2024-08-21 12:57:54,061 - src.job_apply - WARNING - Attempt 1 failed for job 3997759473: Message: 
+
+2024-08-21 12:58:11,356 - src.job_apply - WARNING - Attempt 2 failed for job 3997759473: Message: 
+
+2024-08-21 12:58:28,972 - src.job_apply - WARNING - Attempt 3 failed for job 3997759473: Message: 
+
+2024-08-21 12:58:28,972 - src.job_apply - ERROR - Failed to apply to job 3997759473 after 3 attempts
+2024-08-21 12:58:41,172 - src.job_apply - WARNING - Attempt 1 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:58:58,614 - src.job_apply - WARNING - Attempt 2 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:59:15,746 - src.job_apply - WARNING - Attempt 3 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:59:15,746 - src.job_apply - ERROR - Failed to apply to job 3928049429 after 3 attempts
+2024-08-21 12:59:28,103 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 12:59:46,280 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:00:04,490 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:00:04,490 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 13:00:18,519 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:00:36,692 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:00:54,915 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:00:54,915 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 13:01:08,167 - src.job_apply - WARNING - Attempt 1 failed for job 3987804985: Message: 
+
+2024-08-21 13:01:28,246 - src.job_apply - WARNING - Attempt 2 failed for job 3987804985: Message: 
+
+2024-08-21 13:01:47,225 - src.job_apply - WARNING - Attempt 3 failed for job 3987804985: Message: 
+
+2024-08-21 13:01:47,225 - src.job_apply - ERROR - Failed to apply to job 3987804985 after 3 attempts
+2024-08-21 13:02:00,413 - src.job_apply - WARNING - Attempt 1 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:02:18,318 - src.job_apply - WARNING - Attempt 2 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:02:36,618 - src.job_apply - WARNING - Attempt 3 failed for job 3928049429: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:02:36,618 - src.job_apply - ERROR - Failed to apply to job 3928049429 after 3 attempts
+2024-08-21 13:02:49,803 - src.job_apply - WARNING - Attempt 1 failed for job 3975889521: Message: 
+
+2024-08-21 13:03:08,417 - src.job_apply - WARNING - Attempt 2 failed for job 3975889521: Message: 
+
+2024-08-21 13:03:28,100 - src.job_apply - WARNING - Attempt 3 failed for job 3975889521: Message: 
+
+2024-08-21 13:03:28,100 - src.job_apply - ERROR - Failed to apply to job 3975889521 after 3 attempts
+2024-08-21 13:03:41,480 - src.job_apply - WARNING - Attempt 1 failed for job 3989615862: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:04:00,870 - src.job_apply - WARNING - Attempt 2 failed for job 3989615862: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:04:18,825 - src.job_apply - WARNING - Attempt 3 failed for job 3989615862: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:04:18,825 - src.job_apply - ERROR - Failed to apply to job 3989615862 after 3 attempts
+2024-08-21 13:04:32,781 - src.job_apply - WARNING - Attempt 1 failed for job 4004569118: Message: 
+
+2024-08-21 13:04:50,619 - src.job_apply - WARNING - Attempt 2 failed for job 4004569118: Message: 
+
+2024-08-21 13:05:08,412 - src.job_apply - WARNING - Attempt 3 failed for job 4004569118: Message: 
+
+2024-08-21 13:05:08,412 - src.job_apply - ERROR - Failed to apply to job 4004569118 after 3 attempts
+2024-08-21 13:05:21,105 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:05:38,395 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:05:57,119 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:05:57,119 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 13:06:10,271 - src.job_apply - WARNING - Attempt 1 failed for job 3993231862: Message: 
+
+2024-08-21 13:06:28,759 - src.job_apply - WARNING - Attempt 2 failed for job 3993231862: Message: 
+
+2024-08-21 13:06:46,879 - src.job_apply - WARNING - Attempt 3 failed for job 3993231862: Message: 
+
+2024-08-21 13:06:46,879 - src.job_apply - ERROR - Failed to apply to job 3993231862 after 3 attempts
+2024-08-21 13:06:59,524 - src.job_apply - WARNING - Attempt 1 failed for job 3995600841: Message: 
+
+2024-08-21 13:07:17,070 - src.job_apply - WARNING - Attempt 2 failed for job 3995600841: Message: 
+
+2024-08-21 13:07:33,897 - src.job_apply - WARNING - Attempt 3 failed for job 3995600841: Message: 
+
+2024-08-21 13:07:33,897 - src.job_apply - ERROR - Failed to apply to job 3995600841 after 3 attempts
+2024-08-21 13:07:47,222 - src.job_apply - WARNING - Attempt 1 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:08:05,286 - src.job_apply - WARNING - Attempt 2 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:08:23,440 - src.job_apply - WARNING - Attempt 3 failed for job 3998601106: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:08:23,440 - src.job_apply - ERROR - Failed to apply to job 3998601106 after 3 attempts
+2024-08-21 13:08:38,355 - src.job_apply - WARNING - Attempt 1 failed for job 3997759473: Message: 
+
+2024-08-21 13:08:55,624 - src.job_apply - WARNING - Attempt 2 failed for job 3997759473: Message: 
+
+2024-08-21 13:09:13,909 - src.job_apply - WARNING - Attempt 3 failed for job 3997759473: Message: 
+
+2024-08-21 13:09:13,909 - src.job_apply - ERROR - Failed to apply to job 3997759473 after 3 attempts
+2024-08-21 13:09:28,076 - src.job_apply - WARNING - Attempt 1 failed for job 3998754107: Message: 
+
+2024-08-21 13:09:48,333 - src.job_apply - WARNING - Attempt 2 failed for job 3998754107: Message: 
+
+2024-08-21 13:10:05,988 - src.job_apply - WARNING - Attempt 3 failed for job 3998754107: Message: 
+
+2024-08-21 13:10:05,988 - src.job_apply - ERROR - Failed to apply to job 3998754107 after 3 attempts
+2024-08-21 13:10:19,234 - src.job_apply - WARNING - Attempt 1 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:10:38,784 - src.job_apply - WARNING - Attempt 2 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:10:56,834 - src.job_apply - WARNING - Attempt 3 failed for job 3986449556: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:10:56,834 - src.job_apply - ERROR - Failed to apply to job 3986449556 after 3 attempts
+2024-08-21 13:11:09,914 - src.job_apply - WARNING - Attempt 1 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:27,385 - src.job_apply - WARNING - Attempt 2 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:45,591 - src.job_apply - WARNING - Attempt 3 failed for job 3998077074: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3B2822C]
+	(No symbol) [0x00007FF7B3B2850C]
+	(No symbol) [0x00007FF7B3B6DCB7]
+	(No symbol) [0x00007FF7B3B4CAAF]
+	(No symbol) [0x00007FF7B3B6B041]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:45,591 - src.job_apply - ERROR - Failed to apply to job 3998077074 after 3 attempts
+2024-08-21 13:11:51,189 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,193 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,195 - src.job_apply - ERROR - Error applying to job 3986449556: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,197 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,198 - src.job_apply - ERROR - Error applying to job 3992426083: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,200 - src.job_apply - ERROR - Error applying to job 3989615862: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,201 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,203 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,205 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,206 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,208 - src.job_apply - ERROR - Error applying to job 3999700928: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,210 - src.job_apply - ERROR - Error applying to job 3986449556: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,211 - src.job_apply - ERROR - Error applying to job 4003295733: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,213 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,215 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,216 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,218 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,219 - src.job_apply - ERROR - Error applying to job 3995025987: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,219 - src.job_apply - ERROR - Error applying to job 3973694619: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,222 - src.job_apply - ERROR - Error applying to job 3987508478: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,223 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,224 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,226 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,228 - src.job_apply - ERROR - Error applying to job 4003295733: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,229 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,230 - src.job_apply - ERROR - Error applying to job 3999700928: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,232 - src.job_apply - ERROR - Error applying to job 4005887736: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,234 - src.job_apply - ERROR - Error applying to job 3807136547: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,235 - src.job_apply - ERROR - Error applying to job 3613273668: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,236 - src.job_apply - ERROR - Error applying to job 3995793815: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,239 - src.job_apply - ERROR - Error applying to job 3990646471: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,240 - src.job_apply - ERROR - Error applying to job 3918894789: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,242 - src.job_apply - ERROR - Error applying to job 3982037452: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,244 - src.job_apply - ERROR - Error applying to job 3934379443: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,246 - src.job_apply - ERROR - Error applying to job 3998159871: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,248 - src.job_apply - ERROR - Error applying to job 3922742880: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,249 - src.job_apply - ERROR - Error applying to job 3996988027: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,250 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,252 - src.job_apply - ERROR - Error applying to job 4004509377: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,253 - src.job_apply - ERROR - Error applying to job 3976011688: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,255 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,257 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,259 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,261 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,262 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,264 - src.job_apply - ERROR - Error applying to job 3986449556: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,266 - src.job_apply - ERROR - Error applying to job 4004689619: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,267 - src.job_apply - ERROR - Error applying to job 3996218750: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,269 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,270 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,271 - src.job_apply - ERROR - Error applying to job 3998601106: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,273 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,275 - src.job_apply - ERROR - Error applying to job 3986449556: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,276 - src.job_apply - ERROR - Error applying to job 3996218750: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,279 - src.job_apply - ERROR - Error applying to job 3998074456: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,280 - src.job_apply - ERROR - Error applying to job 3998077074: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,281 - src.job_apply - ERROR - Error applying to job 3995600841: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,283 - src.job_apply - ERROR - Error applying to job 3987804985: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,284 - src.job_apply - ERROR - Error applying to job 3986449556: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,286 - src.job_apply - ERROR - Error applying to job 3973694619: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,288 - src.job_apply - ERROR - Error applying to job 3989615862: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,290 - src.job_apply - ERROR - Error applying to job 3996218750: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,291 - src.job_apply - ERROR - Error applying to job 3994630121: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,293 - src.job_apply - ERROR - Error applying to job 3977253282: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,294 - src.job_apply - ERROR - Error applying to job 3984525423: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,296 - src.job_apply - ERROR - Error applying to job 4004197173: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,298 - src.job_apply - ERROR - Error applying to job 3943361001: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,299 - src.job_apply - ERROR - Error applying to job 4003289570: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,302 - src.job_apply - ERROR - Error applying to job 3993435603: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,306 - src.job_apply - ERROR - Error applying to job 3987014219: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,309 - src.job_apply - ERROR - Error applying to job 3967738263: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,311 - src.job_apply - ERROR - Error applying to job 3993297388: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,312 - src.job_apply - ERROR - Error applying to job 3982327408: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,314 - src.job_apply - ERROR - Error applying to job 4004564786: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,316 - src.job_apply - ERROR - Error applying to job 4004199080: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
+2024-08-21 13:11:51,318 - src.job_apply - ERROR - Error applying to job 3975259369: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B3C29642+30946]
+	(No symbol) [0x00007FF7B3BDE3D9]
+	(No symbol) [0x00007FF7B3AD6FDA]
+	(No symbol) [0x00007FF7B3AACB85]
+	(No symbol) [0x00007FF7B3B537A7]
+	(No symbol) [0x00007FF7B3B6A771]
+	(No symbol) [0x00007FF7B3B4C813]
+	(No symbol) [0x00007FF7B3B1A6E5]
+	(No symbol) [0x00007FF7B3B1B021]
+	GetHandleVerifier [0x00007FF7B3D5F84D+1301229]
+	GetHandleVerifier [0x00007FF7B3D6BDC7+1351783]
+	GetHandleVerifier [0x00007FF7B3D62A13+1313971]
+	GetHandleVerifier [0x00007FF7B3C5DD16+245686]
+	(No symbol) [0x00007FF7B3BE759F]
+	(No symbol) [0x00007FF7B3BE3814]
+	(No symbol) [0x00007FF7B3BE39A2]
+	(No symbol) [0x00007FF7B3BDA3FF]
+	BaseThreadInitThunk [0x00007FFAEB7C257D+29]
+	RtlUserThreadStart [0x00007FFAED1CAF28+40]
+
